@@ -14,28 +14,28 @@
    },
    {
       "title": "Magna",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/chi.jpeg?token=GHSAT0AAAAAACCVSCMLIHFHUEA5275233HCZDCL5OQ",
+    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/chi.jpeg?token=GHSAT0AAAAAACCVSCMLNAOA4NNZAH2W23BGZDCM5JQ",
       "stack": ["Chihuahua", "(Smooth coat)", "crossbreed" ],
      "link" : "adoption"
    }
    ,
    {
       "title": "Maxx",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy.jpeg?token=GHSAT0AAAAAACCVSCMLHZKVB24B3VOXMQJ2ZDCMC4A",
+    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy.jpeg?token=GHSAT0AAAAAACCVSCMKXDKALCKNWRW7B7JAZDCM5NQ",
       "stack": ["Parson", "Jack Russell", "Terrier" ], 
      "link" : "adoption"
    }
      ,
    {
       "title": "Pheonix",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy2.jpeg?token=GHSAT0AAAAAACCVSCMKE5BKZIQMERLXETPQZDCMFQQ",
+    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy2.jpeg?token=GHSAT0AAAAAACCVSCMLQQ2ZHGAN5F3GFXB6ZDCM5OQ",
       "stack": ["Border", "Collie" ], 
      "link" : "adoption"
    }
      ,
    {
       "title": "DareDevil",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy3.jpeg?token=GHSAT0AAAAAACCVSCMLXTL7EPYHY4MOE7ZAZDCMGQQ",
+    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy3.jpeg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
       "stack": ["Terrier", "Crossbreed" ],
      "link" : "adoption"
    }
