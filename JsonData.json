@@ -4,7 +4,7 @@
       "title": "Wolverine",
       "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog1.jpeg?token=GHSAT0AAAAAACCVSCMLZJ2F33T2P2TGAXDGZDCLMMA",
       "stack": ["Collie","(Smooth coat)", "crossbreed"],
-      "link": "project\vite-danielmoore\src\views\InformationView.vue"         
+      "link": "InformationView.vue"         
    },
    {
        "title": "Johnson",
