@@ -18,27 +18,7 @@
       "stack": ["Chihuahua", "(Smooth coat)", "crossbreed" ],
      "link" : "adoption"
    }
-   ,
-   {
-      "title": "Maxx",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy.jpeg?token=GHSAT0AAAAAACCVSCMKXDKALCKNWRW7B7JAZDCM5NQ",
-      "stack": ["Parson", "Jack Russell", "Terrier" ], 
-     "link" : "adoption"
-   }
-     ,
-   {
-      "title": "Pheonix",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy2.jpeg?token=GHSAT0AAAAAACCVSCMLQQ2ZHGAN5F3GFXB6ZDCM5OQ",
-      "stack": ["Border", "Collie" ], 
-     "link" : "adoption"
-   }
-     ,
-   {
-      "title": "DareDevil",
-    "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy3.jpeg?token=GHSAT0AAAAAACCVSCMLVFTAFV25EORZTG74ZDCM5QA",
-      "stack": ["Terrier", "Crossbreed" ],
-     "link" : "adoption"
-   }
+ 
   
         ]
 }
