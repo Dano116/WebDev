@@ -18,23 +18,6 @@
       "stack": ["Python", "C#", "AI"],
      "link" : "http://www.example.com/garnet"
    }
-     {
-      "title": "Magnas page",
-    "imgUrl":"https://fi67.github.io/JsonData/images/garnet.jpg",
-      "stack": ["Python", "C#", "AI"],
-     "link" : "http://www.example.com/garnet"
-   }
- {
-      "title": "Magnas page",
-    "imgUrl":"https://fi67.github.io/JsonData/images/garnet.jpg",
-      "stack": ["Python", "C#", "AI"],
-     "link" : "http://www.example.com/garnet"
-   }
- {
-      "title": "Magnas page",
-    "imgUrl":"https://fi67.github.io/JsonData/images/garnet.jpg",
-      "stack": ["Python", "C#", "AI"],
-     "link" : "http://www.example.com/garnet"
-   }
+   
         ]
 }
