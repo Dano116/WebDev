@@ -3,7 +3,7 @@
 {
       "title": "Wolverine",
       "imgUrl": "https://fi67.github.io/JsonData/images/falcor.jpg",
-      "stack": ["	Collie (Smooth coat) crossbreed"],
+      "stack": "Collie (Smooth coat) crossbreed",
       "link": "http://www.example.com/falcor"
    },
    {
