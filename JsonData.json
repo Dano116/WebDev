@@ -2,7 +2,7 @@
   "articles":[
 {
       "title": "Wolverine",
-      "imgUrl": "test.png",   
+      "imgUrl": "https://github.com/Dano116/WebDev/blob/8cf75ebc9dfea35f17d3fd8d51e1e39e053ed585/test.png",   
       "stack": ["Collie","(Smooth coat)", "crossbreed"],
       "link": "adoption"         
    },
