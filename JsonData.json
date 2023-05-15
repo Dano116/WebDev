@@ -2,42 +2,42 @@
   "articles":[
 {
       "title": "Wolverine",
-      "imgUrl": "https://github.com/Dano116/WebDev/blob/8cf75ebc9dfea35f17d3fd8d51e1e39e053ed585/test.png",   
+      "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog1.jpeg?token=GHSAT0AAAAAACCVSCMKUFLAJI6YTHSPOJR4ZDCMTFA",   
       "stack": ["Collie","(Smooth coat)", "crossbreed"],
-      "link": "http://www.example.com/falcor"         
+      "link": "adoption"         
    },
    {
        "title": "Johnson",
      "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog%202.jpeg?token=GHSAT0AAAAAACCVSCMK3ADTY3GDZUVOXUN6ZDCMDIQ",
        "stack": ["Crossbreed", "Unknown"],
-      "link": "http://www.example.com/falcor"
+      "link": "adoption"
    },
    {
       "title": "Magna",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/chi.jpeg?token=GHSAT0AAAAAACCVSCMLIHFHUEA5275233HCZDCL5OQ",
       "stack": ["Chihuahua", "(Smooth coat)", "crossbreed" ],
-     "link" : "http://www.example.com/falcor"
+     "link" : "adoption"
    }
    ,
    {
       "title": "Maxx",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy.jpeg?token=GHSAT0AAAAAACCVSCMLHZKVB24B3VOXMQJ2ZDCMC4A",
       "stack": ["Parson", "Jack Russell", "Terrier" ], 
-     "link" : "http://www.example.com/falcor"
+     "link" : "adoption"
    }
      ,
    {
       "title": "Pheonix",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy2.jpeg?token=GHSAT0AAAAAACCVSCMKE5BKZIQMERLXETPQZDCMFQQ",
       "stack": ["Border", "Collie" ], 
-     "link" : "http://www.example.com/falcor"
+     "link" : "adoption"
    }
      ,
    {
       "title": "DareDevil",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/doggy3.jpeg?token=GHSAT0AAAAAACCVSCMLXTL7EPYHY4MOE7ZAZDCMGQQ",
       "stack": ["Terrier", "Crossbreed" ],
-     "link" : "http://www.example.com/falcor"
+     "link" : "adoption"
    }
   
         ]
