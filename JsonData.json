@@ -10,13 +10,13 @@
        "title": "Johnson",
      "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog%202.jpeg?token=GHSAT0AAAAAACCVSCMLZW7Q2ZUAJZADSOHYZDCLQNQ",
        "stack": ["Crossbreed", "Unknown"],
-      "link": "http://www.example.com/jem"
+      "link": "adoption"
    },
    {
       "title": "Magna",
     "imgUrl":"https://raw.githubusercontent.com/Dano116/WebDev/main/chi.jpeg?token=GHSAT0AAAAAACCVSCMLRTEY34IZD7TJAKKIZDCLOBQ",
       "stack": ["Chihuahua", "(Smooth coat)", "crossbreed" ],
-     "link" : "http://www.example.com/garnet"
+     "link" : "adoption"
    }
    
         ]
