@@ -10,7 +10,7 @@
        "title": "Johnson",
      "imgUrl": "https://raw.githubusercontent.com/Dano116/WebDev/main/dog%202.jpeg?token=GHSAT0AAAAAACCVSCML6R2EZJV4X5XFOZUAZDCM46Q",
        "stack": ["Crossbreed", "Unknown"],
-      "link": "information"
+      "link": "AboutView.vue"
    },
    {
       "title": "Magna",
